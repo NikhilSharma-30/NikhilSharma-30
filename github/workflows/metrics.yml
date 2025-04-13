@@ -1,0 +1,21 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: NikhilSharma-30
+          template: classic
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          config_timezone: 'Asia/Kolkata'  # Ensure the timezone is in quotes to avoid format issues
