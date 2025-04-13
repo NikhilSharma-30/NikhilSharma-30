@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:      # Allows manual trigger
+    - cron: "0 * * * *"  
+  workflow_dispatch:     
 
 jobs:
   github-metrics:
@@ -18,5 +18,4 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          config_timezone: Asia/Kolkata
-
+          config_timezone: 'Asia/Kolkata'  
