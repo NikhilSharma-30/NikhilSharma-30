@@ -30,3 +30,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilsharma-30&show_icons=true&locale=en" alt="nikhilsharma-30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma-30&" alt="nikhilsharma-30" /></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info**
+<details>
+  <summary>View Here</summary>
+  <br>
+
+  <!-- 50 days -->
+  <a href="https://leetcode.com/u/nikhil9794/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="nikhil50" height="200" width="200" />
+  </a>
+
+  <!-- 100 days -->
+  <a href="https://leetcode.com/u/nikhil9794/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="nikhil100" height="200" width="200" />
+  </a>
+   <br>
+  <img align="top" src="https://leetcard.jacoblin.cool/nikhil9794?theme=dark&font=Nunito&ext=heatmap" />
+</details>
