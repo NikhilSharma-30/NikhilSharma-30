@@ -48,3 +48,7 @@
    <br>
   <img align="top" src="https://leetcard.jacoblin.cool/nikhil9794?theme=dark&font=Nunito&ext=heatmap" />
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
