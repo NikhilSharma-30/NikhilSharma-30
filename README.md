@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilsharma-30&show_icons=true&locale=en" alt="nikhilsharma-30" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma-30&theme=default" alt="nikhilsharma-30" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsharma-30&theme=default%22%20alt=%22nikhilsharma-30" alt="nikhilsharma-30" />
 </p>
 
 
